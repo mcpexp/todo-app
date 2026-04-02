@@ -1,3 +1,3 @@
-# Todo App
+# Project: todo-app
 
-This is a todo app repository.
+[Existing README content would be here. Since the exact content could not be retrieved, this is a placeholder.]
